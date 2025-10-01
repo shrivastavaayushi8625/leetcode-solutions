@@ -4,15 +4,15 @@ This repository contains solutions to LeetCode problems based on Sliding Window 
 
 📌 Fixed-size Sliding Window
 
-643-Maximum Average Subarray I
-1343-Number of Subarrays of Size K and Average ≥ Threshold
-1461-Check If a String Contains All Binary Codes of Size K
-438-Find All Anagrams in a String
-567-Permutation in String
-239-Sliding Window Maximum
-1876-Substrings of Size Three with Distinct Characters
-2461-Maximum Sum of Distinct Subarrays of Size K
-2653-Sliding Subarray Beauty
+**643**-Maximum Average Subarray I
+**1343**-Number of Subarrays of Size K and Average ≥ Threshold
+**1461**-Check If a String Contains All Binary Codes of Size K
+**438**-Find All Anagrams in a String
+**567**-Permutation in String
+**239**-Sliding Window Maximum
+**1876**-Substrings of Size Three with Distinct Characters
+**2461**-Maximum Sum of Distinct Subarrays of Size K
+**2653**-Sliding Subarray Beauty
 
 📌 Variable-size / Dynamic Sliding Window
 
