@@ -16,13 +16,13 @@ This repository contains solutions to LeetCode problems based on Sliding Window 
 
 📌 Variable-size / Dynamic Sliding Window
 
-2730-Find the Longest Semi-Repetitive Substring
-2537-Count the Number of Good Subarrays
-2260-Minimum Consecutive Cards to Pick Up
-1658-Minimum Operations to Reduce X to Zero
-1248-Count Number of Nice Subarrays
-904-Fruit Into Baskets
-1004-Max Consecutive Ones III
-713-Subarray Product Less Than K
-209-Minimum Size Subarray Sum
-3-Longest Substring Without Repeating Characters
+**2730**-Find the Longest Semi-Repetitive Substring
+**2537**-Count the Number of Good Subarrays
+**2260**-Minimum Consecutive Cards to Pick Up
+**1658**-Minimum Operations to Reduce X to Zero
+**1248**-Count Number of Nice Subarrays
+**904**-Fruit Into Baskets
+**1004**-Max Consecutive Ones III
+**713**-Subarray Product Less Than K
+**209**-Minimum Size Subarray Sum
+**3**-Longest Substring Without Repeating Characters
