@@ -3,6 +3,7 @@
 This repository contains solutions to LeetCode problems based on Sliding Window technique, categorized into Fixed-size and Variable-size / Dynamic sliding windows.
 
 📌 Fixed-size Sliding Window
+
 643-Maximum Average Subarray I
 1343-Number of Subarrays of Size K and Average ≥ Threshold
 1461-Check If a String Contains All Binary Codes of Size K
@@ -14,6 +15,7 @@ This repository contains solutions to LeetCode problems based on Sliding Window 
 2653-Sliding Subarray Beauty
 
 📌 Variable-size / Dynamic Sliding Window
+
 2730-Find the Longest Semi-Repetitive Substring
 2537-Count the Number of Good Subarrays
 2260-Minimum Consecutive Cards to Pick Up
